@@ -19,7 +19,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/08/02/bg-olx-new-webp.webp" />
   <link rel="canonical" href="https://universitasalbertiana.org/" />
-  <link rel="amphtml" href="https://opkale.me/olxtoto" />
+  <link rel="amphtml" href="https://universitasalbertiana.org/wp-content/uploads/2011/01/index.php" />
   <!-- start preload -->
   <link rel="preload" href="https://imgstore.io/images/2024/11/26/togel-onlinee.jpeg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
